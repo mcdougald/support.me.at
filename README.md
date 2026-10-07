@@ -9,7 +9,7 @@
 
 It is all free to use. Sponsors are how it stays maintained.
 
-support.me.at is a small, static sponsor and donate hub for Trevor McDougald's work: open-source libraries, the me.at apps, and the notes around them. It says what the work is and where support goes, then points to the funding platforms people already use. Nothing is collected on the page itself, every link opens the platform's own site, and there is deliberately no goal, running total or thermometer.
+support.me.at is a small, static sponsor and donate hub for my work: open-source libraries, the me.at apps, and the notes around them. It says what the work is and where support goes, then points to the funding platforms people already use. Nothing is collected on the page itself, every link opens the platform's own site, and there is deliberately no goal, running total or thermometer.
 
 **Live:** [support.me.at](https://support.me.at)
 
@@ -31,7 +31,7 @@ support.me.at is a small, static sponsor and donate hub for Trevor McDougald's w
 
 ## Part of the me.at family
 
-support.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+support.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
