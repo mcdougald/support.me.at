@@ -1,0 +1,7 @@
+{
+  "name": "support-me-at",
+  "description": "Sponsor and donation hub that funds my open-source work and the *.me.at apps",
+  "homepage": "https://support.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
